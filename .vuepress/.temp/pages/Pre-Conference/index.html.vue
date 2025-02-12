@@ -101,19 +101,15 @@
 <li>Notification of acceptance: March 5, 2025</li>
 <li>Camera-ready copy and author registration: March 15, 2025</li>
 </ul>
-<h3 id="organization" tabindex="-1"><a class="header-anchor" href="#organization"><span>Organization</span></a></h3>
-<ul>
-<li><strong>General Chairs</strong>:
+<h3 id="general-chairs" tabindex="-1"><a class="header-anchor" href="#general-chairs"><span>General Chairs</span></a></h3>
 <ul>
 <li>Weijie Yu, Sun Yat-sen University, China</li>
 <li>Qiang Yang, Nanjing University of Information Science and Technology, China</li>
 <li>Xiaofang Liu, Nankai University, China</li>
 </ul>
-</li>
-</ul>
 <p><b>Submission:</b></p>
-<p><a href="https://openreview.net/group?id=IEEE.org/MiTA/2025/Conference&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">Submission link</a></p>
-<p>Register by <b>April 7th</b>, 2025. Proceed to the <a href="https://mita2025.com/Registration/">REGISTRATION</a> page.</p>
+<p><a href="https://openreview.net/group?id=IEEE.org/MiTA/2025/Conference&referrer=%5BHomepage%5D(%2F)#tab-your-consoles"><strong>Submission link</strong></a></p>
+<p>Register by <b>April 7th</b>, 2025. Proceed to the <a href="https://mita2025.com/Registration/"><b>REGISTRATION</b></a> page.</p>
 <div style="margin-bottom: 10px;">
       <p style="margin-bottom: 10px;">Pre-MiTA is proudly supported by:</p>
                  <table border="0" cellpadding="1" width="100%" style="margin-top: 5px;">

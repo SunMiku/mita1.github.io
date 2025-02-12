@@ -172,16 +172,15 @@ Pre-MiTA 2025 calls for submissions of work related (but not limited) to the abo
 - Notification of acceptance: March 5, 2025
 - Camera-ready copy and author registration: March 15, 2025
 
-### Organization
-- **General Chairs**:
+### General Chairs
   - Weijie Yu, Sun Yat-sen University, China
   - Qiang Yang, Nanjing University of Information Science and Technology, China
   - Xiaofang Liu, Nankai University, China
 
 <b>Submission:</b>
     
-<a href="https://openreview.net/group?id=IEEE.org/MiTA/2025/Conference&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">Submission link</a>  
-<p>Register by <b>April 7th</b>, 2025. Proceed to the <a href="https://mita2025.com/Registration/">REGISTRATION</a> page.</p>
+<a href="https://openreview.net/group?id=IEEE.org/MiTA/2025/Conference&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">**Submission link**</a>  
+<p>Register by <b>April 7th</b>, 2025. Proceed to the <a href="https://mita2025.com/Registration/"><b>REGISTRATION</b></a> page.</p>
 
 <div style="margin-bottom: 10px;">
       <p style="margin-bottom: 10px;">Pre-MiTA is proudly supported by:</p>
