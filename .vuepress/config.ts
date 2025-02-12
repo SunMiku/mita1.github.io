@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/mita2.github.io/",
 
   lang: "en-US",
   title: "MiTA 2025",
