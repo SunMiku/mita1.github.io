@@ -1,0 +1,44 @@
+---
+home: true
+bgImage: /image/background.jpg
+bgImageStyle:
+  background-attachment: fixed
+heroText: International Conference on Machine Intelligence Theory and Applications
+tagline: 16 - 27 May, 2025 <br>Frankfurt, Germany · Naples, Italy · Dubai, United Arab Emirates
+actions:
+  - text: Deadline
+    link: ../Deadline/
+    type: primary
+  
+  - text: Call for Papers
+    link: ../PDFReader/
+    type: primary
+
+  - text: Paper Submission
+    link: ../Submission/
+    type: primary
+copyright: false
+---
+## Speakers
+<div style="font-family: Times New Roman; color: black">
+<!--## 
+     <p style="text-align: center; font-family: Times New Roman; font-size: 20px;">Peng Shi<br>School of Electrical and Mechanical Engineering<br>University of Adelaide, Australia<br>Peng.shi@adelaide.edu.au</p> <br>
+    <p style="text-align: justify; font-family: Times New Roman; font-size: 20px;"><b>Abstract:</b> Artificial intelligence (AI) is now one of the most popular and fundamental areas, and has found its practical applications in many fields, such as autonomous and robotic systems, manufacturing systems, cyber-physical systems, communication systems, image and pattern recognitions, etc. AI has been extensively studied in the past decades. There is no doubt that AI has been and will continue playing a big role in our daily life and real world applications. This talk will present some challenges facing to AI, and issues in cybersecurity. </p>
+    <br>
+    <p style="text-align: justify; font-family: Times New Roman; font-size: 20px;"><img src="../.vuepress/public/peng.jpg" align="left" width="110" heigh="120" hspace="5" vspace="8" style="padding-top: 10px; padding-right: 10px;"> <b>Peng Shi</b> received the PhD degree in Electrical Engineering from the University of Newcastle, Australia in 1994. He was awarded the higher doctorate -- the Doctor of Science degree from the University of Glamorgan, UK in 2006, and the Doctor of Engineering degree from the University of Adelaide, Australia in 2015. He is now a Distinguished Professor at the School of Electrical and Mechanical Engineering, and the Director of Advanced Unmanned Systems Laboratory, at The University of Adelaide, Australia. His research interests include systems and control theory and applications to autonomous and robotic systems, cyber-physical systems, and multi-agent systems. He received the Life-time Achievement Award from the International Engineering and Technology Institute in 2023, the Meritorious Service Award from IEEE Systems, Man and Cybernetics (SMC) Society in 2023, the MA Sargent Medal Award from Engineers Australia in 2022; the Life-time Achiever Leaderboard and Field Leader Recognition from The AUSTRALIAN Research Review from 2019-2023, and the Highly Cited Researcher Acknowledgement from Clarivate Analystics 2014-2023. Currently he serves as the Editor-in-Chief of IEEE Transactions on Cybernetics, a Senior Editor of IEEE Access, and an associate editor for several  journals, including Information Sciences, IEEE Transactions on Artificial Intelligence and Automatica. His professional services also include as the President of the International Academy for Systems and Cybernetic Sciences (2021--), the Vice President of IEEE SMC Society (2021-2022), and IEEE SMC Society Distinguished Lecturer (2020--). He is a Fellow of IEEE, IET, IETI, IEAust, CAA, and a Member of the Academy of Europe.</p> -->
+</div>
+
+<div style="text-align: center;"><img src="/image/wait.jpg" width="600">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

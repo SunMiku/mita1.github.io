@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"MiTA 2025\",\"description\":\"\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/image/logo.png\"}]],\"locales\":{}}")
