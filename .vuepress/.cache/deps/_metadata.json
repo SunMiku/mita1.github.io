@@ -7,7 +7,7 @@
     "@vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
-      "fileHash": "ccc44007",
+      "fileHash": "74f37521",
       "needsInterop": false
     },
     "@vue/devtools-api": {
@@ -25,13 +25,13 @@
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "3c916b58",
+      "fileHash": "960ca4c5",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "7e3b5123",
+      "fileHash": "521d7284",
       "needsInterop": false
     }
   },
