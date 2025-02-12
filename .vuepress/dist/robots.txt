@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mihu03.github.io/sitemap.xml
+Sitemap: https://mihu03.github.io/mita1.github.io/sitemap.xml
